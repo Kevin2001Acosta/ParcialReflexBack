@@ -4,6 +4,7 @@ Solución backend para servir a una app front reflex que realiza un crud de Usua
 
 Instalación, clonar el repositorio,
 crear un ambiente virtual preferiblemente,
+python -m venv env
 instalar los requirements.txt y otros si hace falta.
 pip install -r requirements.txt
 
